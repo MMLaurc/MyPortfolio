@@ -1,0 +1,28 @@
+-----------------------------------
+Number of users: 	 3
+Number of tasks: 	 4
+
+************** admin **************
+Assigned tasks:                              1
+Percentage of assigned tasks out of all:     25.0%
+Percentage of completed assigned tasks:      0.0%
+Percentage of incomplete assigned tasks:     100.0%
+Percentage of overdue tasks:                 100.0%
+***********************************
+
+*************** laur **************
+Assigned tasks:                              3
+Percentage of assigned tasks out of all:     75.0%
+Percentage of completed assigned tasks:      0.0%
+Percentage of incomplete assigned tasks:     100.0%
+Percentage of overdue tasks:                 100.0%
+***********************************
+
+************** laur1 **************
+Assigned tasks:                              0
+Percentage of assigned tasks out of all:     0.0%
+Percentage of completed assigned tasks:      0%
+Percentage of incomplete assigned tasks:     0%
+Percentage of overdue tasks:                 0%
+***********************************
+-----------------------------------
